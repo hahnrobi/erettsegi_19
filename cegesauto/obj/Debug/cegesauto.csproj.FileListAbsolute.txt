@@ -1,0 +1,7 @@
+C:\Users\hahnr\source\repos\cegesauto\cegesauto\bin\Debug\cegesauto.exe.config
+C:\Users\hahnr\source\repos\cegesauto\cegesauto\bin\Debug\cegesauto.exe
+C:\Users\hahnr\source\repos\cegesauto\cegesauto\bin\Debug\cegesauto.pdb
+C:\Users\hahnr\source\repos\cegesauto\cegesauto\obj\Debug\cegesauto.csprojAssemblyReference.cache
+C:\Users\hahnr\source\repos\cegesauto\cegesauto\obj\Debug\cegesauto.csproj.CoreCompileInputs.cache
+C:\Users\hahnr\source\repos\cegesauto\cegesauto\obj\Debug\cegesauto.exe
+C:\Users\hahnr\source\repos\cegesauto\cegesauto\obj\Debug\cegesauto.pdb
